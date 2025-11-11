@@ -1,0 +1,5 @@
+{
+  "name": "Best Shot - Daily Golf Challenge",
+  "description": "A single-screen landing page for the Best Shot mobile golf game. It introduces the daily hole-in-one challenge, explains the gameplay loop, and collects emails for the beta launch through a simple, responsive, one-screen-at-a-time experience.",
+  "requestFramePermissions": []
+}
